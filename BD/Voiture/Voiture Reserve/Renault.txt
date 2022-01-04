@@ -1,0 +1,4 @@
+CIN      Matricule     Date de debut     Date de fin      Modele         PrixJour       PrixTotal       ID
+
+RB89425  AB-895-AB     16/12/2021        19/12/2021       Renault Clio   300            900             100000
+RB12345  AB-895-AB     10/12/2021        14/12/2021       Renault Clio   150            540             100001

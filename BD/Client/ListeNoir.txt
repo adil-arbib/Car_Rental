@@ -1,0 +1,4 @@
+CIN            Nom
+
+RB45145         Arbahi Nawal        
+RB12345        Arbib Adil

@@ -1,0 +1,21 @@
+Matricule		Marque         	Modele              Etat
+
+AA-123-AA		Dacia         	Dacia Logan         100
+RT-653-RE		Dacia		    Dacia Duster        100
+JD-034-AN		Dacia           Dacia Logan         100
+NU-094-NF		Dacia           Dacia Lodgy         100
+HF-341-VF		Dacia           Dacia Dokker        100
+AB-895-AB		Renault		    Renault Clio        100
+WR-431-YU		Renault		    Renault Twingo      100
+PN-143-GT		Renault		    Renault ZEO         100
+ZE-144-RC		Peugeot         Peugeot 208         100
+EW-243-NB		Peugeot         Peugeot 108         100
+FR-132-GU		Peugeot         Peugeot 3008        100
+EE-191-EP		Ford 		    Ford Fiesta         100
+TT-134-TR		Ford 		    Ford Focus          100
+GY-325-FW		Ford 		    Ford Escap          100
+HR-323-NF		Ford 		    Ford EDGE           100
+XR-866-XE		Fiat            Fiat Panda          100
+HE-843-HF		Fiat            Fiat 500X           100
+BF-983-BD		Fiat            Fiat Panda          100
+HR-431-NV		Fiat            Fiat Argo           100

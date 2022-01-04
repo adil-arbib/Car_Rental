@@ -1,0 +1,3 @@
+CIN      Matricule     Date de debut     Date de fin      Modele         PrixJour       PrixTotal       ID
+
+RB98345  EE-191-EP     13/12/2021        28/12/2021       Ford Fiesta    100            1500            100000      

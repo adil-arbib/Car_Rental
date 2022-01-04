@@ -1,0 +1,11 @@
+CIN      Matricule     Date de debut     Date de fin      Modele         PrixJour       PrixTotal       ID
+
+RB12345  AA-123-AA     13/10/2020        20/10/2020       Dacia Logan    200            14000           100000
+RB12345  RT-653-RE     17/10/2020        22/10/2020       Dacia Duster   200            14000           100001
+RB31416  NU-094-NF     17/11/2020        22/11/2020       Dacia Lodgy    300            15000           100002
+RB12345  RT-653-RE     10/10/2020        15/10/2020       Dacia Duster   100            450             100003
+RB12345  JD-034-AN     10/11/2020        12/11/2020       Dacia Logan    200            360             100004
+RB12345  JD-034-AN     20/10/2020        25/10/2020       Dacia Logan    200            900             100005
+RB12345  RT-653-RE     10/12/2021        14/12/2021       Dacia Duster   200            720             100006
+RB12345  RT-653-RE     12/05/2021        14/05/2021       Dacia Duster   250            450             100007
+RB12345  JD-034-AN     10/10/2020        15/10/2020       Dacia Logan    150            675             100008
